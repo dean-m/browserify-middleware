@@ -28,7 +28,7 @@
   "dependencies": {
     "coffee-script": "~1.6.2",
     "through": "~2.2.0",
-    "convert-source-map": "~0.2.1"
+    "convert-source-map": "~0.2.1",
     "callsite": "~1.0.0",
     "browserify": "~2.22.0",
     "uglify-js": "~2.3.5",
